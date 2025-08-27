@@ -37,6 +37,13 @@ Each project includes code, datasets, and explanations for learning and practica
 
 ---
 
+### 5. Top Ten Projects on Python
+- **Tech Stack:** Python, Matplotlib and python libraries  
+- **Description:** Chatbot, Face Detection.  
+- **GitHub:** [View Project](https://github.com/samrattayade/ai/tree/main/10%20projects)
+
+---
+
 ## 🚀 Upcoming Projects
 - 🤖 AI Chatbot with NLP (Transformers + RAG)  
 - 📊 Stock Price Prediction using LSTMs  
