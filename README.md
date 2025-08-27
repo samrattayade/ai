@@ -19,7 +19,7 @@ Each project includes code, datasets, and explanations for learning and practica
 ### 2. Amazon Clone (React)
 - **Tech Stack:** React, CSS, Firebase  
 - **Description:** A frontend Amazon-like shopping UI with authentication and cart system.  
-- **GitHub:** [View Project](https://github.com/samrattayade)
+- **GitHub:** [View Project](https://github.com/samrattayade/Amazon-clone-React)
 
 ---
 
