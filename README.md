@@ -33,7 +33,7 @@ Each project includes code, datasets, and explanations for learning and practica
 ### 4. BARC Material Management System
 - **Tech Stack:** Java, MySQL  
 - **Description:** A system for managing material inventory at BARC.  
-- **GitHub:** [View Project](https://github.com/samrattayade)
+- **GitHub:** [View Project](https://github.com/samrattayade/PHP_crud_app)
 
 ---
 
